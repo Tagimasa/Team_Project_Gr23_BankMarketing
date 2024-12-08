@@ -13,10 +13,10 @@ The calculation is simple. Let’s assume the project took place last year. The 
 
 Based on this, we can estimate the total cost of the hourly rate using the following standard assumptions:
 
-43% taxes
-100% overheads
-15% margin
-100% labor utilization
+43% taxes  
+100% overheads  
+15% margin  
+100% labor utilization  
 These parameters are conservative, so the real cost could be 15-20% higher than my estimate.
 
 With these assumptions, we calculate the cost per minute at €0.61.
@@ -25,17 +25,17 @@ From the dataset, we see that the total time spent was 10,638,243 seconds for 4,
 
 However, by using predictive models and increasing the Prediction Accuracy by just 10% at each step, the bank could significantly improve its results and reduce costs. 
 
-Prediction Acc.	Cost per 1 subs.
-11.3%	        € 23.50
-20%	            € 13.24
-30%	            € 8.82
-40%	            € 6.62
-50%	            € 5.29
-60%	            € 4.41
-70%	            € 3.78
-80%	            € 3.31
-90%	            € 2.94
-100%	        € 2.65
+Prediction Acc.	Cost per 1 subs.  
+11.3%	          € 23.50  
+20%	            € 13.24  
+30%	            € 8.82  
+40%	            € 6.62  
+50%	            € 5.29  
+60%	            € 4.41  
+70%	            € 3.78  
+80%	            € 3.31  
+90%	            € 2.94  
+100%	          € 2.65  
 
 also we can see that on the chart:
 
