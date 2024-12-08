@@ -6,9 +6,9 @@ As mentioned in the 'business analysis' file, there is no need to use complicate
 
 all code and results are in the 01_Model_training_KNN.ipynb
 
-Steps of modelling
-1/ create dataframe from 'cleaned-data' dataset
-2/ Encode the target variable 'y' (binary)
+Steps of modelling  
+1/ create dataframe from 'cleaned-data' dataset  
+2/ Encode the target variable 'y' (binary)  
 3/ Convert categorical columns to numerical using one-hot encoding
 4/ Split the data into features (X) and target (y)
 5/ Normalize/Scale the data for KNN (important for distance-based models)
