@@ -18,11 +18,12 @@ Steps of modelling
 9/ Evaluate the performance of the model
 
 Results:
-Accuracy: 0.8878402543214783
-              precision    recall  f1-score   support
+Accuracy: 0.887
 
-           0       0.90      0.98      0.94      8830
-           1       0.63      0.21      0.32      1236
+              precision      recall    f1-score     
+
+           0       0.90      0.98      0.94      
+           1       0.63      0.21      0.32      
 
 10/ Test different k values
 k=10 is the good one 
