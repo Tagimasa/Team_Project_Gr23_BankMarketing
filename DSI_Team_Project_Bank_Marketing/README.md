@@ -23,14 +23,14 @@ The goal is to develop a classification model to predict potential deposit subsc
    
 **Project Steps**
 
-1/ Download the dataset and analyze key parameters.
-2/ Review the business context and outline basic requirements for subsequent steps.
-3/ Evaluate the dataset features to determine their relevance for analysis and whether they should be included in the modeling process.
-4/ Perform data cleaning by removing outliers, missing values, and excluding unreliable features.
-5/ Train and test the classification models.
-6/ Develop a prediction tool and create a template dataset for future use by the client.
-7/ Document all details in the corresponding README files.
-8/ Provide final conclusions and recommendations
+1/ Download the dataset and analyze key parameters.  
+2/ Review the business context and outline basic requirements for subsequent steps.  
+3/ Evaluate the dataset features to determine their relevance for analysis and whether they should be included in the modeling process.  
+4/ Perform data cleaning by removing outliers, missing values, and excluding unreliable features.  
+5/ Train and test the classification models.  
+6/ Develop a prediction tool and create a template dataset for future use by the client.  
+7/ Document all details in the corresponding README files.  
+8/ Provide final conclusions and recommendations  
 
 **Folders Structure**
 
