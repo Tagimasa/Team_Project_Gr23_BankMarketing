@@ -18,9 +18,9 @@ Steps of modelling
 9/ Evaluate the performance of the model  
 
 Results:  
-Accuracy: 0.887
+Accuracy: 0.887  
 
-              precision      recall    f1-score     
+              precision     ecall      f1-score       
 
            0       0.90      0.98      0.94      
            1       0.63      0.21      0.32      
