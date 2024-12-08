@@ -49,4 +49,4 @@ As a first step, we can start with simple models, and then, based on the results
 
 The next step is outlined in the data analysis README.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/f5f6f4f2-9192-4ffd-b997-fde6148ece67)
