@@ -24,6 +24,7 @@ The goal is to develop a classification model to predict potential deposit subsc
 **Project Steps**
 
 1/ Download the dataset and analyze key parameters.
+
 2/ Review the business context and outline basic requirements for subsequent steps.
 3/ Evaluate the dataset features to determine their relevance for analysis and whether they should be included in the modeling process.
 4/ Perform data cleaning by removing outliers, missing values, and excluding unreliable features.
@@ -34,7 +35,7 @@ The goal is to develop a classification model to predict potential deposit subsc
 
 **Folders Structure**
 
-DSI_Team_Project_Bank_Marketing /n
+DSI_Team_Project_Bank_Marketing
     - Data
         - 01_Raw_Data
         - 02_Initial_Data_Analysis
