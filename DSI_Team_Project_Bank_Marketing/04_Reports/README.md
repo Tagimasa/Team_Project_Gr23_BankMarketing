@@ -15,4 +15,4 @@ My LinkedIn: https://www.linkedin.com/in/oleksii-virko-476b1514/
 
 My Facebook and Insta ))
 
-A huge thank you to the University of Toronto, those kind guys who paid for my studies, all the teachers, and project coordinators! You guys are the best!
+Many thanks to the University of Toronto!, those kind guys who paid for my studies!, all the teachers, and project coordinators! You guys are the best!
