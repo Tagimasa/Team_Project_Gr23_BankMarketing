@@ -5,7 +5,7 @@ This project objective is to predict client subscription (or no) to a term depos
 I pay special attention to the business context of the project, addressing challenges in the initial stages and proposing potential solutions for future activities.
 
 **Team Members**
-•	Oleksii Virko (link to video)
+•	Oleksii Virko (link to video - https://drive.google.com/drive/folders/1Q-H8U5n3rseC2tR85TyiVU2xRH3w7uAy?usp=sharing)
 
 **Business Case:** 
 
