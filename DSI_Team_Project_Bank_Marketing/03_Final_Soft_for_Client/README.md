@@ -1,4 +1,4 @@
-# Client forecasting tool #
+# Forecasting tool for Client #
 
 The purpose of this folder is to create a reproducible approach for "bank manager" to generate a list of "Yes" clients for future promotional or subscription campaigns.
 
