@@ -5,7 +5,7 @@
 If you've made it to this page, it means you're a patient genius!
  Below, you'll find some information about me.
 
-All information about context analysis, data analysis, dataset cleaning, modelling and testing, client tool usage are in the README files of respective folders
+All information about business-context analysis, data analysis, dataset cleaning, modelling and testing, 'client tool' usage are in the README files of the respective folders
 
 The link to my video-presentation: https://drive.google.com/drive/folders/1Q-H8U5n3rseC2tR85TyiVU2xRH3w7uAy?usp=sharing
 
