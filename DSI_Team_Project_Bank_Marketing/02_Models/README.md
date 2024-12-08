@@ -9,15 +9,15 @@ all code and results are in the 01_Model_training_KNN.ipynb
 Steps of modelling  
 1/ create dataframe from 'cleaned-data' dataset  
 2/ Encode the target variable 'y' (binary)  
-3/ Convert categorical columns to numerical using one-hot encoding
-4/ Split the data into features (X) and target (y)
-5/ Normalize/Scale the data for KNN (important for distance-based models)
-6/ Split into training and test datasets
-7/ Initialize KNN and fit the model
-8/ Make predictions and evaluate the model
-9/ Evaluate the performance of the model
+3/ Convert categorical columns to numerical using one-hot encoding  
+4/ Split the data into features (X) and target (y)  
+5/ Normalize/Scale the data for KNN (important for distance-based models)  
+6/ Split into training and test datasets  
+7/ Initialize KNN and fit the model  
+8/ Make predictions and evaluate the model  
+9/ Evaluate the performance of the model  
 
-Results:
+Results:  
 Accuracy: 0.887
 
               precision      recall    f1-score     
