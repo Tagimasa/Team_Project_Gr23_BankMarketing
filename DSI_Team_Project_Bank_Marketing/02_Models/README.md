@@ -47,20 +47,20 @@ much better!
 
  all code and results are in the 02_Model_Training_LogReg.ipynb
 
- Steps of modelling
-1/ Create dataframe from 'cleaned-data' dataset
-2/ Split the data into features (X) and target (y)
-3/ Encode categorical features ('job', 'marital', 'education', etc.)
-4/ Apply Label Encoding to categorical features
-5/ Scale the features
-6/ Split the dataset into training and testing sets (70% training, 30% testing)
-7/ Initialize the Logistic Regression model 
-8/ Train the model
-9/ Evaluate the model on the test set
-10/ Print performance metrics
-11/ Visualize the features wights 
-12/ Save the trained model using joblib, model_filename = 'logreg_model.pkl'
-
+ Steps of modelling  
+1/ Create dataframe from 'cleaned-data' dataset  
+2/ Split the data into features (X) and target (y)  
+3/ Encode categorical features ('job', 'marital', 'education', etc.)  
+4/ Apply Label Encoding to categorical features  
+5/ Scale the features  
+6/ Split the dataset into training and testing sets (70% training, 30% testing)  
+7/ Initialize the Logistic Regression model   
+8/ Train the model  
+9/ Evaluate the model on the test set  
+10/ Print performance metrics  
+11/ Visualize the features wights   
+12/ Save the trained model using joblib, model_filename = 'logreg_model.pkl'  
+  
 Accuracy on Test Set:  0.888 Good result!!! we can use it for further Bank' promos 
 
 Classification Report:
