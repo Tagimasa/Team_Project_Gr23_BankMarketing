@@ -34,7 +34,7 @@ The goal is to develop a classification model to predict potential deposit subsc
 
 **Folders Structure**
 
-DSI_Team_Project_Bank_Marketing
+DSI_Team_Project_Bank_Marketing \n
     - Data
         - 01_Raw_Data
         - 02_Initial_Data_Analysis
