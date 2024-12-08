@@ -61,7 +61,7 @@ much better!
 11/ Visualize the features wights   
 12/ Save the trained model using joblib, model_filename = 'logreg_model.pkl'  
   
-Accuracy on Test Set:  0.888 Good result!!! we can use it for further Bank' promos 
+Accuracy on Test Set:  0.888 Good result!!! we can use it for further Bank' promos/ subscription predictions
 
 Classification Report:
                precision    recall  f1-score   
